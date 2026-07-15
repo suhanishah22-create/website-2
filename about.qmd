@@ -1,5 +1,8 @@
 ---
 title: "About"
 ---
+##About Me
 
-About this site
+I am **Suhani Shah** and I currently attend *Bartlett Highschool*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
